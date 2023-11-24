@@ -5,9 +5,9 @@ Project completed in December 2022, training a Text-to-Speech model to clone the
 * [Poem generated using ChatGPT and read by Nachotron :point_left:](https://github.com/pablomm/nachotron-voice/raw/main/docs/nachotron_chatgpt_poem.mp3)
 * [*Esclavos del destino* sung by Nachotron :point_left:](https://github.com/pablomm/nachotron-voice/raw/main/docs/nachotron_esclavos_del_destino.mp3)
 
-A presentation for the course 'Deep Learning for Audio Signal Processing' that describes the project can be found here in [PDF](docs/presentation_DLASP.pdf) or [PowerPoint](docs/presentation_DLASP.pptx) format.
+For the project, we generated a dataset of Nach's voice, transcribing their discography with Whisper, and using Demucs to separate the voice from the music. Then we trained a TTS model using a CoquiTTS model as the base, and had fun generating new songs with the model. A presentation for the course 'Deep Learning for Audio Signal Processing' that describes the project can be found here in [PDF](docs/presentation_DLASP.pdf) or [PowerPoint](docs/presentation_DLASP.pptx) format.
 
-For the project, we generated a dataset of Nach's voice, transcribing their discography with Whisper, and using Demucs to separate the voice from the music. Then we trained a TTS model using a CoquiTTS model as the base, and had fun generating new songs with the model.
+## Code
 
 All the project work was done using Colab, with the following notebooks:
 
