@@ -1,2 +1,12 @@
 # nachotron-voice
-Nach voice cloning - Final project Deep Learning for Audio Signal Processing
+
+Project testing the generation of a dataset and clone the voice of Nach, a Spanish rapper using a GAN
+
+![cover](./docs/pablo_rap_disc.png)
+
+---
+
+
+
+
+![poem](./docs/nachotron_chatgpt_poem.mp3)
